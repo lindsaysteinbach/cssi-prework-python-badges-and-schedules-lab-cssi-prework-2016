@@ -1,7 +1,7 @@
 tags:
-  - arrays
+  - lists
   - iteration
-  - methods
+  - functions
 languages:
-  - ruby
+  - python
 resources: 3
